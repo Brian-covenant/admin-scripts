@@ -1,1 +1,1 @@
-psexec.exe \\Office-PC1 -u Covenant\brianb245 -p 5K-u>B}?t]TC;Asz -i -d cmd /c shutdown /r /f /t 1 
+psexec.exe \\[machine-name] -u [domain]\[username] -p [password] -i -d cmd /c shutdown /r /f /t 1 
